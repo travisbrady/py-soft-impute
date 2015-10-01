@@ -11,7 +11,8 @@ Notes:
 - For additional detail the R vignette [here](https://web.stanford.edu/~hastie/swData/softImpute/vignette.html) is quite helpful
 - R package: https://github.com/cran/softImpute
 - paper: http://arxiv.org/abs/1410.2596
-- 
+
+
 ### Toy example usage
 ```python
  import numpy as np
